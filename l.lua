@@ -3,7 +3,7 @@ if game.PlaceId == 120119241483509 then
 end
 
 if game.PlaceId == 101949297449238 then
-   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/BuildAnIsland/refs/heads/main/Script"), true))()
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/BuildAnIsland/refs/heads/main/Script.lua"), true))()
 end
 
 if game.PlaceId == 76381016848158 then
