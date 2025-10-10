@@ -10,10 +10,6 @@ if game.PlaceId == 76381016848158 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/Factroy-RNG/refs/heads/main/Script"), true))()
 end
 
-if game.PlaceId == 3823781113 then
-   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/test/refs/heads/main/script.lua"), true))()
-end
-
 if game.PlaceId == 15420499516 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/SlimeINC/refs/heads/main/slime.lua"), true))()
 end
