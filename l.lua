@@ -14,7 +14,7 @@ if game.PlaceId == 15420499516 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/SlimeINC/refs/heads/main/slime.lua"), true))()
 end
 
-if game.PlaceId == 71460947057345 then
+if game.PlaceId == 3823781113 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/dungeon/refs/heads/main/keyfordungeon.lua"), true))()
 end
 
