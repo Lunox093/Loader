@@ -21,3 +21,7 @@ end
 if game.PlaceId == 71460947057345 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/dungeon/refs/heads/main/keyfordungeon.lua"), true))()
 end
+
+if game.PlaceId == 3101667897 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/speedlegendsKEY/refs/heads/main/.lua"), true))()
+end
