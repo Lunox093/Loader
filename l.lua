@@ -5,3 +5,7 @@ end
 if game.PlaceId == 3823781113 then
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/test/refs/heads/main/script.lua"), true))()
 end
+
+if game.PlaceId == 3101667897 then
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/speedlegends/refs/heads/main/.lua"), true))()
+end
