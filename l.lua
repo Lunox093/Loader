@@ -11,5 +11,5 @@ if game.PlaceId == 3101667897 then
 end
 
 if game.PlaceId == 92416421522960 then
-   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/SlimeRNG/refs/heads/main/.lua"), true))() --Slime RNG
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lunox093/SlimeRNG-Key/refs/heads/main/.lua"), true))() --Slime RNG
 end
